@@ -1,19 +1,9 @@
-# node-todo-cicd
-
-Run these commands:
+![image alt](https://github.com/kadamvignesh/Node-js-app-with-ECS-and-CloudWatch/blob/main/Screenshot%20(122).png?raw=true)
 
 
-`sudo apt install nodejs`
+![image alt](https://github.com/kadamvignesh/Node-js-app-with-ECS-and-CloudWatch/blob/main/Screenshot%20(123).png?raw=true)
 
 
-`sudo apt install npm`
 
 
-`npm install`
-
-`node app.js`
-
-or Run by docker compose
-
-test
-
+![image alt](https://github.com/kadamvignesh/Node-js-app-with-ECS-and-CloudWatch/blob/main/Screenshot%20(125).png?raw=true)
